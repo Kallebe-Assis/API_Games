@@ -30,3 +30,8 @@ Esta é uma API RESTful para gerenciar informações detalhadas sobre jogos, inc
   •  TypeScript: Linguagem para adicionar tipagem estática ao JavaScript.
   •  Postman: Utilizado para testar os endpoints da API.
   •  Banco de Dados: PostgreSQL
+
+**DESENVOLVEDORES**:
+  • KALLEBE ASSIS
+  • SAMUEL CARDOSO DINIZ
+  • FELIPE CUNHA
